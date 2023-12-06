@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Tedst Git Quick Demo
+=======
+>>>>>>> c67b208430a2241ffd0e83ae960ac38ebfe67f28
 Test Git Quick Demo
